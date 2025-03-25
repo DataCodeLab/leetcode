@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/doocs/leetcode">
-    <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode%40main/images/doocs-leetcode.png" alt="LeetCode GitHub Doocs">
+  <a href="https://github.com/Optimism-Educator/leetcode">
+    <img src="./SVG/cupdata.svg" alt="LeetCode GitHub Doocs">
   </a>
 </p>
 
